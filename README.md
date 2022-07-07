@@ -10,4 +10,4 @@ Nesse desafio foi dado um código que estava desalinhado como mostra a imagem ab
 O objetivo foi organizar e deixar o layout igual ao feito em aula.
 <p>Segue abaixo o link com o desafio concluido! 🚀💜</p>
 
-<a href="https://gabrieldiasz.github.io/desafio-02/" target="_blank">Desafio concluído!</a>
+<a href="https://raw.githubusercontent.com/jordanogazalle/desafio02/main/Desafio%20concluido.PNG" target="_blank">Desafio concluído!</a>
